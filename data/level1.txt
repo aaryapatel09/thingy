@@ -1,0 +1,24 @@
+######################
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#          ###       #
+#                    #
+#       #            #
+#                    #
+#                    #
+#  S       S    S  S #
+########################
+#
+# Legend:
+# # = solid tile
+# S = switch
+# A = AND gate
+# O = OR gate
+# X = XOR gate
+# N = NOT gate
+# G = goal 
